@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MrReder/crwn-clothing.git/static/css/main.7e9f0c93.chunk.css",
+    "main.js": "/MrReder/crwn-clothing.git/static/js/main.6a705e3d.chunk.js",
+    "main.js.map": "/MrReder/crwn-clothing.git/static/js/main.6a705e3d.chunk.js.map",
+    "runtime-main.js": "/MrReder/crwn-clothing.git/static/js/runtime-main.669f13ea.js",
+    "runtime-main.js.map": "/MrReder/crwn-clothing.git/static/js/runtime-main.669f13ea.js.map",
+    "static/js/2.73f39d6a.chunk.js": "/MrReder/crwn-clothing.git/static/js/2.73f39d6a.chunk.js",
+    "static/js/2.73f39d6a.chunk.js.map": "/MrReder/crwn-clothing.git/static/js/2.73f39d6a.chunk.js.map",
+    "index.html": "/MrReder/crwn-clothing.git/index.html",
+    "service-worker.js": "/MrReder/crwn-clothing.git/service-worker.js",
+    "service-worker.js.map": "/MrReder/crwn-clothing.git/service-worker.js.map",
+    "static/css/main.7e9f0c93.chunk.css.map": "/MrReder/crwn-clothing.git/static/css/main.7e9f0c93.chunk.css.map",
+    "static/js/2.73f39d6a.chunk.js.LICENSE.txt": "/MrReder/crwn-clothing.git/static/js/2.73f39d6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.669f13ea.js",
+    "static/js/2.73f39d6a.chunk.js",
+    "static/css/main.7e9f0c93.chunk.css",
+    "static/js/main.6a705e3d.chunk.js"
+  ]
+}
