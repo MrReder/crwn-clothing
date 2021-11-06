@@ -2,9 +2,15 @@
 width: 30vw;
 display: flex;
 flex-direction: column;
+box-sizing: border-box;
 
   .title{
     margin: 10px 0;
+  }
+
+  .buttons{
+  display: flex;
+  justify-content: space-between;
   }
  
 }
